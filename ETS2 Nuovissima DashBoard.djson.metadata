@@ -1,0 +1,20 @@
+{
+  "Category": null,
+  "Title": "ETS2 Dashboard \"Green\"",
+  "Description": null,
+  "Author": "ZuS3",
+  "ScreenCount": 1.0,
+  "InGameScreensIndexs": [
+    0
+  ],
+  "IdleScreensIndexs": [],
+  "MainPreviewIndex": 0,
+  "IsOverlay": false,
+  "ShowInTaskBar": true,
+  "Width": 1280.0,
+  "Height": 720.0,
+  "OverlaySizeWarning": true,
+  "MetadataVersion": 2.0,
+  "EnableOnDashboardMessaging": true,
+  "PitScreensIndexs": []
+}
